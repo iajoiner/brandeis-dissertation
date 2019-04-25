@@ -26,7 +26,7 @@
 %%
 %%  (C) 2000 Andy Garland (aeg@cs.brandeis.edu)
 %%  (C) 2001 Pablo Funes (pablo@cs.brandeis.edu)
-%%  (C) 2004 Peter Møller Neergaard
+%%  (C) 2004 Peter MÃ¸ller Neergaard
 %%  (C) 2013 Meg Peck and John Burt
 %%
 %%   This program may be distributed and/or modified under the
